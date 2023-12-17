@@ -1,6 +1,5 @@
 # Payment-Gateway-Integration-spark
 Task#3 Payment Gateway Integration project in web development and design domain for spark internship  #GRIPDECEMBER23
-# Payment-Gateway-Integration-Task-3
 A simple Responsive website where payment gateway is integrated.
 
 There will be a simple donate button on the homepage. On clicking the donate button,
